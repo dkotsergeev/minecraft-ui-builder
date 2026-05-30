@@ -12,7 +12,7 @@ function ItemPicker({ isOpen, onClose, onSelect, currentTexture }) {
 
   useEffect(() => {
     if (isOpen && allItems.length === 0) {
-      fetch('/textures/items-index.json')
+      fetch(`${import.meta.env.BASE_URL}textures/items-index.json`)
         .then(r => r.json())
         .then(data => {
           setAllItems(data)
@@ -48,7 +48,7 @@ function ItemPicker({ isOpen, onClose, onSelect, currentTexture }) {
 
   if (!isOpen) return null
 
-  const getTexturePath = (item) => `/textures/${item.folder}/${item.name}.png`
+  const getTexturePath = (item) => `${import.meta.env.BASE_URL}textures/${item.folder}/${item.name}.png`
 
   return (
     <div className="item-picker-overlay" onClick={onClose}>

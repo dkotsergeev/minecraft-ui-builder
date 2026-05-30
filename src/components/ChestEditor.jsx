@@ -140,7 +140,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
             style={{
               width: chestWidth,
               height: 17 * SCALE,
-              backgroundImage: 'url(/textures/containers/generic_54.png)',
+              backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
               backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
               backgroundPosition: '0 0',
             }}
@@ -155,7 +155,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                 width: chestWidth,
                 height: 18 * SCALE,
                 top: (17 + rowIdx * 18) * SCALE,
-                backgroundImage: 'url(/textures/containers/generic_54.png)',
+                backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                 backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                 backgroundPosition: `0 -${17 * SCALE}px`,
               }}
@@ -169,7 +169,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
               width: chestWidth,
               height: 7 * SCALE,
               top: (17 + 18 * iface.rows) * SCALE,
-              backgroundImage: 'url(/textures/containers/generic_54.png)',
+              backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
               backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
               backgroundPosition: `0 -${(17 + 18 * 6) * SCALE}px`,
             }}
@@ -183,7 +183,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                 width: chestWidth,
                 height: (14 + 54 + 4 + 18 + 7) * SCALE,
                 top: (17 + 18 * iface.rows + 7) * SCALE,
-                backgroundImage: 'url(/textures/containers/generic_54.png)',
+                backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                 backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                 backgroundPosition: `0 -${(17 + 18 * 6 + 7) * SCALE}px`,
               }}
@@ -215,7 +215,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                 <div className="slot-index">{index}</div>
                 {slot && slot.texture && (
                   <img
-                    src={`/textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
+                    src={`${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
                     alt={slot.texture}
                     className="slot-texture"
                     onError={(e) => {
@@ -258,7 +258,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                   >
                     {trigger && trigger.texture && (
                       <img
-                        src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                        src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                         alt={trigger.texture}
                         className="player-slot-tex"
                         onError={(e) => { e.target.style.display = 'none' }}
@@ -288,7 +288,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                   >
                     {trigger && trigger.texture && (
                       <img
-                        src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                        src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                         alt={trigger.texture}
                         className="player-slot-tex"
                         onError={(e) => { e.target.style.display = 'none' }}
@@ -336,7 +336,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
               title={item}
             >
               <img
-                src={`/textures/items/${item}.png`}
+                src={`${import.meta.env.BASE_URL}textures/items/${item}.png`}
                 alt={item}
                 onError={(e) => {
                   e.target.style.display = 'none'

@@ -68,7 +68,7 @@ function InventoryTriggers({ triggers, interfaces, onUpdate }) {
                 <span className="inv-slot-idx">{slotIdx}</span>
                 {trigger && trigger.texture && (
                   <img
-                    src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                    src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                     alt={trigger.texture}
                     className="inv-slot-tex"
                     onError={(e) => { e.target.style.display = 'none' }}
@@ -107,7 +107,7 @@ function InventoryTriggers({ triggers, interfaces, onUpdate }) {
                 <span className="inv-slot-idx">{idx}</span>
                 {trigger && trigger.texture && (
                   <img
-                    src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                    src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                     alt={trigger.texture}
                     className="inv-slot-tex"
                     onError={(e) => { e.target.style.display = 'none' }}
@@ -154,7 +154,7 @@ function InventoryTriggers({ triggers, interfaces, onUpdate }) {
                   <div className="trigger-icon">
                     {tr.texture && (
                       <img
-                        src={`/textures/${tr.textureFolder || 'items'}/${tr.texture}.png`}
+                        src={`${import.meta.env.BASE_URL}textures/${tr.textureFolder || 'items'}/${tr.texture}.png`}
                         alt={tr.texture}
                         onError={(e) => { e.target.style.display = 'none' }}
                       />

@@ -77,7 +77,7 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {trigger && trigger.texture && (
                     <img
-                      src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                      src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                       alt={trigger.texture}
                       onError={(e) => { e.target.style.display = 'none' }}
                     />
@@ -99,7 +99,7 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {trigger && trigger.texture && (
                     <img
-                      src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                      src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                       alt={trigger.texture}
                       onError={(e) => { e.target.style.display = 'none' }}
                     />
@@ -162,7 +162,7 @@ function TestMode({ interfaces, triggers }) {
               style={{
                 width: chestWidth,
                 height: 17 * SCALE,
-                backgroundImage: 'url(/textures/containers/generic_54.png)',
+                backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                 backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                 backgroundPosition: '0 0',
               }}
@@ -178,7 +178,7 @@ function TestMode({ interfaces, triggers }) {
                   top: (17 + rowIdx * 18) * SCALE,
                   position: 'absolute',
                   left: 0,
-                  backgroundImage: 'url(/textures/containers/generic_54.png)',
+                  backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                   backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                   backgroundPosition: `0 -${17 * SCALE}px`,
                 }}
@@ -193,7 +193,7 @@ function TestMode({ interfaces, triggers }) {
                 top: (17 + 18 * iface.rows) * SCALE,
                 position: 'absolute',
                 left: 0,
-                backgroundImage: 'url(/textures/containers/generic_54.png)',
+                backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                 backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                 backgroundPosition: `0 -${(17 + 18 * 6) * SCALE}px`,
               }}
@@ -207,7 +207,7 @@ function TestMode({ interfaces, triggers }) {
                 top: (17 + 18 * iface.rows + 7) * SCALE,
                 position: 'absolute',
                 left: 0,
-                backgroundImage: 'url(/textures/containers/generic_54.png)',
+                backgroundImage: `url(${import.meta.env.BASE_URL}textures/containers/generic_54.png)`,
                 backgroundSize: `${256 * SCALE}px ${256 * SCALE}px`,
                 backgroundPosition: `0 -${(17 + 18 * 6 + 7) * SCALE}px`,
               }}
@@ -236,7 +236,7 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {slot && slot.texture && (
                     <img
-                      src={`/textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
+                      src={`${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
                       alt={slot.texture}
                       className="test-slot-tex"
                       onError={(e) => { e.target.style.display = 'none' }}
@@ -269,7 +269,7 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {trigger && trigger.texture && (
                     <img
-                      src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                      src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                       alt={trigger.texture}
                       className="test-slot-tex"
                       onError={(e) => { e.target.style.display = 'none' }}
@@ -296,7 +296,7 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {trigger && trigger.texture && (
                     <img
-                      src={`/textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
+                      src={`${import.meta.env.BASE_URL}textures/${trigger.textureFolder || 'items'}/${trigger.texture}.png`}
                       alt={trigger.texture}
                       className="test-slot-tex"
                       onError={(e) => { e.target.style.display = 'none' }}

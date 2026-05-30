@@ -85,7 +85,7 @@ function SlotProperties({
         <div className="texture-picker">
           {slot.texture && (
             <img
-              src={`/textures/${textureFolder}/${slot.texture}.png`}
+              src={`${import.meta.env.BASE_URL}textures/${textureFolder}/${slot.texture}.png`}
               alt={slot.texture}
               className="texture-preview"
               onError={(e) => { e.target.style.display = 'none' }}
