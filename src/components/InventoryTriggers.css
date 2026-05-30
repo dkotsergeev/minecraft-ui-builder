@@ -1,0 +1,254 @@
+.inventory-triggers {
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.triggers-header {
+  margin-bottom: 20px;
+}
+
+.triggers-header h2 {
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.triggers-header .subtitle {
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.triggers-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+@media (max-width: 1100px) {
+  .triggers-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.triggers-left {
+  background-color: var(--surface);
+  padding: 20px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+.triggers-right {
+  background-color: var(--surface);
+  padding: 20px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+/* ===== Inventory Preview ===== */
+.inv-preview {
+  background: linear-gradient(180deg, #4a4a4a 0%, #2a2a2a 100%);
+  border: 2px solid #1a1a1a;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.inv-section-label {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  letter-spacing: 0.5px;
+}
+
+.inv-section-label.hotbar-label {
+  margin-top: 12px;
+}
+
+.inv-grid {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 2px;
+  background-color: #8b8b8b;
+  padding: 4px;
+  border-radius: 2px;
+  border: 2px solid #373737;
+}
+
+.inv-grid.hotbar {
+  background-color: #8b8b8b;
+}
+
+.inv-slot {
+  aspect-ratio: 1;
+  background-color: #8b8b8b;
+  border: 2px solid;
+  border-color: #373737 #fff #fff #373737;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.1s;
+}
+
+.inv-slot:hover {
+  background-color: #b8b8b8;
+}
+
+.inv-slot.has-trigger {
+  background-color: rgba(76, 175, 80, 0.2);
+}
+
+.inv-slot.editing {
+  background-color: rgba(76, 175, 80, 0.5);
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.8);
+}
+
+.inv-slot-idx {
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  font-size: 9px;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 600;
+  pointer-events: none;
+}
+
+.inv-slot.has-trigger .inv-slot-idx,
+.inv-slot.editing .inv-slot-idx {
+  color: white;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.6);
+}
+
+.inv-slot-tex {
+  width: 75%;
+  height: 75%;
+  object-fit: contain;
+  image-rendering: pixelated;
+  pointer-events: none;
+}
+
+/* ===== Triggers List ===== */
+.triggers-empty {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+}
+
+.triggers-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trigger-card {
+  background-color: var(--background);
+  border: 2px solid var(--border);
+  border-radius: 6px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.trigger-card:hover {
+  border-color: var(--primary);
+}
+
+.trigger-card.editing {
+  border-color: var(--primary);
+  background-color: #2f2f2f;
+}
+
+.trigger-card-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.trigger-icon {
+  width: 40px;
+  height: 40px;
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.trigger-icon img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.trigger-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.trigger-title {
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.trigger-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.trigger-delete {
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  font-size: 12px;
+  flex-shrink: 0;
+}
+
+.trigger-editor {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.prop-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.prop-row label {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.prop-row small {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.trigger-texture-row {
+  display: flex;
+  gap: 6px;
+}
+
+.trigger-texture-row input {
+  flex: 1;
+}
+
+.trigger-texture-row .btn-sm {
+  padding: 6px 10px;
+  font-size: 12px;
+}

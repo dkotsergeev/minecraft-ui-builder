@@ -1,0 +1,239 @@
+.test-mode {
+  padding: 20px;
+  position: relative;
+  min-height: 600px;
+}
+
+/* ===== Player Inventory (Start screen) ===== */
+.test-player-inv {
+  max-width: 700px;
+  margin: 0 auto;
+  background: linear-gradient(180deg, #4a4a4a 0%, #2a2a2a 100%);
+  border: 2px solid #1a1a1a;
+  border-radius: 8px;
+  padding: 24px;
+  text-align: center;
+}
+
+.test-title {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'Courier New', monospace;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.5);
+  margin-bottom: 6px;
+}
+
+.test-hint {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+
+.test-empty {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: rgba(255, 255, 255, 0.7);
+  padding: 30px;
+  border-radius: 6px;
+  border: 1px dashed rgba(255, 255, 255, 0.2);
+}
+
+.player-inv-grid,
+.player-hotbar-grid {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 3px;
+  background-color: #8b8b8b;
+  padding: 5px;
+  border: 2px solid;
+  border-color: #373737 #fff #fff #373737;
+  max-width: 500px;
+  margin: 0 auto 8px;
+}
+
+.player-hotbar-grid {
+  margin-top: 12px;
+  background-color: #8b8b8b;
+}
+
+.inv-cell {
+  aspect-ratio: 1;
+  background-color: #8b8b8b;
+  border: 2px solid;
+  border-color: #373737 #fff #fff #373737;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: default;
+  transition: all 0.15s;
+}
+
+.inv-cell.has-trigger {
+  cursor: pointer;
+  background-color: #b8b8b8;
+}
+
+.inv-cell.has-trigger:hover {
+  background-color: rgba(76, 175, 80, 0.4);
+  transform: scale(1.05);
+}
+
+.inv-cell img {
+  width: 75%;
+  height: 75%;
+  object-fit: contain;
+  image-rendering: pixelated;
+  pointer-events: none;
+}
+
+/* ===== Open Interface Overlay ===== */
+.test-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(2px);
+  z-index: 500;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+  padding: 20px;
+}
+
+.test-top-bar {
+  width: 100%;
+  max-width: 900px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 10px 16px;
+  background-color: rgba(45, 45, 45, 0.9);
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+.test-history {
+  color: var(--text);
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.test-history strong {
+  color: var(--text-muted);
+  margin-right: 6px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+
+.history-step {
+  color: var(--primary);
+}
+
+.test-controls {
+  display: flex;
+  gap: 8px;
+}
+
+.test-chest-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.test-chest-title {
+  color: white;
+  font-family: 'Courier New', monospace;
+  font-size: 18px;
+  font-weight: 600;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.6);
+}
+
+.test-mode-hint {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 12px;
+  text-align: center;
+  margin-top: 8px;
+}
+
+/* ===== Slots in test mode ===== */
+.test-slot {
+  border: 2px solid transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: all 0.1s;
+}
+
+.test-slot.actionable {
+  cursor: pointer;
+}
+
+.test-slot.actionable:hover {
+  border-color: rgba(76, 175, 80, 0.9);
+  background-color: rgba(76, 175, 80, 0.3);
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.6);
+}
+
+.test-slot-tex {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  image-rendering: pixelated;
+  pointer-events: none;
+}
+
+.test-slot-glow {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle, rgba(255, 215, 0, 0.4) 0%, transparent 70%);
+  pointer-events: none;
+  animation: testGlow 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes testGlow {
+  from { opacity: 0.4; }
+  to { opacity: 0.8; }
+}
+
+.test-slot.player-inv {
+  cursor: default;
+}
+
+.test-slot.player-inv.has-trigger {
+  cursor: pointer;
+}
+
+.test-slot.player-inv.has-trigger:hover {
+  border-color: rgba(76, 175, 80, 0.9);
+  background-color: rgba(76, 175, 80, 0.2);
+}
+
+/* ===== Toast ===== */
+.test-toast {
+  position: fixed;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--primary);
+  color: white;
+  padding: 14px 28px;
+  border-radius: 6px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+  z-index: 1000;
+  font-weight: 600;
+  animation: toastIn 0.25s ease-out;
+}
+
+@keyframes toastIn {
+  from { opacity: 0; transform: translate(-50%, 20px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}

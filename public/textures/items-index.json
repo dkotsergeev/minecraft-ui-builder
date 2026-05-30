@@ -1,0 +1,7012 @@
+[
+  {
+    "name": "acacia_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "acacia_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "acacia_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "acacia_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "acacia_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "acacia_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "acacia_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "acacia_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "acacia_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "acacia_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "acacia_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "activator_rail",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "activator_rail_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "allay_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "allium",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "amethyst_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "amethyst_cluster",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "amethyst_shard",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "andesite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "angler_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "anvil",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "apple",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "archer_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "armadillo_scute",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "armadillo_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "armor_stand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "arms_up_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "arrow",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "attached_melon_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "attached_pumpkin_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "axolotl_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "axolotl_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "azalea_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "azalea_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "azure_bluet",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "baked_potato",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "bamboo",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "bamboo_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_chest_raft",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "bamboo_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "bamboo_fence",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_fence_gate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_fence_gate_particle",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_fence_particle",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "bamboo_large_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "bamboo_mosaic",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_raft",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "bamboo_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "bamboo_singleleaf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_small_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "bamboo_stalk",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bamboo_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "barrier",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "bat_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "beacon",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bedrock",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bee_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "beef",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "beehive_end",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "beetroot",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "beetroot_seeds",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "beetroot_soup",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "bell",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "big_dripleaf_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "big_dripleaf_tip",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "birch_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "birch_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "birch_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "birch_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "birch_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "birch_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "birch_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "birch_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "birch_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "birch_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "birch_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "black_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "black_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "black_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "black_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "black_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "black_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "black_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "black_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blackstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "blade_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "blaze_powder",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "blaze_rod",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "blaze_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "blue_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "blue_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "blue_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "blue_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "blue_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "blue_egg",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "blue_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "blue_ice",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_orchid",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "blue_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "bogged_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "bolt_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "bone",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "bone_meal",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "book",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "bookshelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bordure_indented_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "bow",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "bow_pulling_0",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "bow_pulling_1",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "bow_pulling_2",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "bowl",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "brain_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "brain_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "brain_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bread",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "breeze_rod",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "breeze_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "brewer_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "brewing_stand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "brewing_stand_base",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "brick",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "brown_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "brown_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "brown_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "brown_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "brown_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "brown_egg",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "brown_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "brown_mushroom",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_mushroom_block",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brown_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "brush",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "bubble_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bubble_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bubble_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "budding_amethyst",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "bundle",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "bundle_open_back",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "bundle_open_front",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "burn_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "bush",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cactus_flower",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "cake",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "calcite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "calibrated_sculk_sensor_amethyst",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "camel_husk_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "camel_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "campfire",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "campfire_fire",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "campfire_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "campfire_log_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "candle",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "candle_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "carrot",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "carrot_on_a_stick",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "carved_pumpkin",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cat_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "cauldron",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "cave_spider_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "cave_vines",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cave_vines_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cave_vines_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cave_vines_plant_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chain_command_block_conditional",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chainmail_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "chainmail_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "chainmail_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "chainmail_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "charcoal",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "cherry_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "cherry_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "cherry_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "cherry_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "cherry_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "cherry_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cherry_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cherry_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "cherry_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cherry_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "cherry_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "chest_minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "chicken",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "chicken_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "chiseled_bookshelf_occupied",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_deepslate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_nether_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_polished_blackstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_quartz_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_red_sandstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_resin_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_sandstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_stone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_tuff",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chiseled_tuff_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "chorus_flower",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "chorus_flower_dead",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "chorus_fruit",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "chorus_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "clay",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "clay_ball",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "clock_00",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_01",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_02",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_03",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_04",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_05",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_06",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_07",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_08",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_09",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_10",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_11",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_12",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_13",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_14",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_15",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_16",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_17",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_18",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_19",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_20",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_21",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_22",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_23",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_24",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_25",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_26",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_27",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_28",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_29",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_30",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_31",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_32",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_33",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_34",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_35",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_36",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_37",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_38",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_39",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_40",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_41",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_42",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_43",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_44",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_45",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_46",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_47",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_48",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_49",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_50",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_51",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_52",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_53",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_54",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_55",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_56",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_57",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_58",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_59",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_60",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_61",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_62",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "clock_63",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "closed_eyeblossom",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "coal",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "coal_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "coal_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "coarse_dirt",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "coast_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "cobbled_deepslate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cobblestone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cobweb",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cocoa_beans",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "cod",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cod_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "cod_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "command_block_conditional",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "command_block_minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "comparator",
+    "folder": "items",
+    "category": "redstone"
+  },
+  {
+    "name": "comparator_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "compass_00",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_01",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_02",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_03",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_04",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_05",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_06",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_07",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_08",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_09",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_10",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_11",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_12",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_13",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_14",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_15",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_16",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_17",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_18",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_19",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_20",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_21",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_22",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_23",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_24",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_25",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_26",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_27",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_28",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_29",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_30",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "compass_31",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "composter_compost",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "composter_ready",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "conduit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cooked_beef",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_chicken",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_cod",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_mutton",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_porkchop",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_rabbit",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cooked_salmon",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "cookie",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "copper_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "copper_bars",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "copper_bulb",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_bulb_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_chain",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "copper_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "copper_golem_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "copper_grate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "copper_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "copper_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_ingot",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "copper_lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "copper_nautilus_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_nugget",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "copper_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "copper_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "copper_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "copper_torch",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "copper_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "cornflower",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "cow_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "cracked_deepslate_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cracked_deepslate_tiles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cracked_nether_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cracked_polished_blackstone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cracked_stone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crafting_table_front",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "creaking_heart",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "creaking_heart_awake",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "creaking_heart_dormant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "creaking_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "creeper_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "creeper_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "crimson_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "crimson_fungus",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "crimson_nylium",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_roots",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_roots_pot",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "crimson_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "crimson_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "crossbow_arrow",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crossbow_firework",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crossbow_pulling_0",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crossbow_pulling_1",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crossbow_pulling_2",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crossbow_standby",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "crying_obsidian",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cut_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cut_red_sandstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cut_sandstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "cyan_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "cyan_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "cyan_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "cyan_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "dandelion",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "danger_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "dark_oak_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "dark_oak_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "dark_oak_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "dark_oak_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "dark_oak_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "dark_oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dark_oak_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dark_oak_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "dark_oak_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dark_oak_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "dark_oak_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "dark_prismarine",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_brain_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_brain_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_brain_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_bubble_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_bubble_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_bubble_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_bush",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "dead_fire_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_fire_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_fire_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_horn_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_horn_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_horn_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_tube_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_tube_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dead_tube_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "debug",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "debug2",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_coal_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_copper_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_diamond_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_emerald_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_gold_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_iron_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_lapis_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_redstone_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "deepslate_tiles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "detector_rail",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "detector_rail_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "diamond",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "diamond_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "diamond_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "diamond_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "diamond_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "diamond_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "diamond_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "diamond_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "diamond_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "diamond_nautilus_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "diamond_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "diamond_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "diamond_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "diamond_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "diamond_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "diamond_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "diorite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dirt",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "disc_fragment_5",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "dolphin_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "donkey_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "dragon_breath",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "dragon_egg",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dried_ghast_hydration_0_tentacles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dried_ghast_hydration_1_tentacles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dried_ghast_hydration_2_tentacles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dried_ghast_hydration_3_tentacles",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "dried_kelp",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "dripstone_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "drowned_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "dune_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "echo_shard",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "egg",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "elder_guardian_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "elytra",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "elytra_broken",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "emerald",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "emerald_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "emerald_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "enchanted_book",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "end_crystal",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "end_portal_frame_eye",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "end_rod",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "end_stone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "end_stone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "ender_dragon_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "ender_eye",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "ender_pearl",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "enderman_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "endermite_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "evoker_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "experience_bottle",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "explorer_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "exposed_chiseled_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper_bars",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper_bulb",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper_bulb_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper_chain",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "exposed_copper_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "exposed_copper_grate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_copper_lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "exposed_copper_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "exposed_cut_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "exposed_lightning_rod",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "eye_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "farmland",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "farmland_moist",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "feather",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "fermented_spider_eye",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "fern",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "field_masoned_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "filled_map",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "filled_map_markings",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "fire_0",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "fire_1",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "fire_charge",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "fire_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "fire_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "fire_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "firefly_bush",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "firefly_bush_emissive",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "firework_rocket",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "firework_star",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "firework_star_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "fishing_rod",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "fishing_rod_cast",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "flint",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "flint_and_steel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "flow_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "flow_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "flow_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "flower_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "flower_pot",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "flowering_azalea_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "fox_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "friend_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "frog_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "frogspawn",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "frosted_ice_0",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "frosted_ice_1",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "frosted_ice_2",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "frosted_ice_3",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "furnace_front",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "furnace_minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "ghast_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "ghast_tear",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "gilded_blackstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "glass",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "glass_bottle",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "glistering_melon_slice",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "globe_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "glow_berries",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "glow_ink_sac",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "glow_item_frame",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "glow_lichen",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "glow_squid_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "glowstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "glowstone_dust",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "goat_horn",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "goat_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "gold_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "gold_ingot",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "gold_nugget",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "gold_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "golden_apple",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "golden_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "golden_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "golden_carrot",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "golden_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "golden_dandelion",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "golden_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "golden_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "golden_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "golden_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "golden_nautilus_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "golden_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "golden_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "golden_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "golden_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "golden_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "granite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "grass_block_snow",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "gravel",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "gray_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "gray_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "gray_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "gray_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "gray_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "gray_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "gray_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "gray_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "green_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "green_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "green_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "green_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "green_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "green_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "green_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "grindstone_pivot",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "grindstone_round",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "guardian_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "gunpowder",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "guster_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "guster_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "hanging_roots",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "happy_ghast_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "heart_of_the_sea",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "heart_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "heartbreak_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "heavy_core",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "hoglin_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "honey_bottle",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "honeycomb",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "honeycomb_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "hopper",
+    "folder": "items",
+    "category": "redstone"
+  },
+  {
+    "name": "hopper_inside",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "hopper_minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "hopper_outside",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "horn_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "horn_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "horn_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "horse_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "host_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "howl_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "husk_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "ice",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "ink_sac",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "iron_bars",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "iron_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "iron_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "iron_chain",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "iron_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "iron_golem_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "iron_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "iron_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "iron_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_ingot",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "iron_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "iron_nautilus_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_nugget",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "iron_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "iron_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "iron_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "iron_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "iron_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "iron_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "item_frame",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "jack_o_lantern",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "jigsaw_lock",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "jungle_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "jungle_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "jungle_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "jungle_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "jungle_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "jungle_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "jungle_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "jungle_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "jungle_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "jungle_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "jungle_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "kelp",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "kelp_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "knowledge_book",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "ladder",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "lapis_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lapis_lazuli",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "lapis_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "large_amethyst_bud",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lava_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "lava_flow",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lava_still",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lead",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "leaf_litter",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "leather_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "leather_boots_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "leather_chestplate_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "leather_helmet_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather_horse_armor_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "leather_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "leather_leggings_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "lectern_base",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lever",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "light",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_00",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_01",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_02",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_03",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_04",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_05",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_06",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_07",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_08",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_09",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_10",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_11",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_12",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_13",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_14",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_15",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "light_blue_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "light_blue_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "light_blue_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_blue_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "light_gray_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "light_gray_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "light_gray_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lightning_rod",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lightning_rod_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lily_of_the_valley",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "lily_pad",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "lime_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "lime_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "lime_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "lime_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "lime_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "lime_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "lime_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lime_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "lingering_potion",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "llama_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "mace",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "magenta_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "magenta_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "magenta_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magenta_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "magma",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "magma_cream",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "magma_cube_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "mangrove_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "mangrove_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "mangrove_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "mangrove_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "mangrove_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "mangrove_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mangrove_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mangrove_propagule",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "mangrove_propagule_hanging",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mangrove_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mangrove_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "mangrove_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "map",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "medium_amethyst_bud",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "melon_seeds",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "melon_slice",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "melon_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "milk_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "miner_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "mojang_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "mooshroom_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "moss_block",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "mossy_cobblestone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mossy_stone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mourner_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "mud",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mud_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "mule_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "mushroom_block_inside",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "mushroom_stem",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "mushroom_stew",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "music_disc_11",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_13",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_5",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_blocks",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_cat",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_chirp",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_creator",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_creator_music_box",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_far",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_lava_chicken",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_mall",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_mellohi",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_otherside",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_pigstep",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_precipice",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_relic",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_stal",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_strad",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_tears",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_wait",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "music_disc_ward",
+    "folder": "items",
+    "category": "music_discs"
+  },
+  {
+    "name": "mutton",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "name_tag",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "nautilus_shell",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "nautilus_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "nether_brick",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "nether_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "nether_gold_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "nether_portal",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "nether_quartz_ore",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "nether_sprouts",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "nether_star",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "nether_wart",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "nether_wart_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "netherite_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "netherite_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "netherite_boots",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "netherite_chestplate",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "netherite_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "netherite_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "netherite_horse_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "netherite_ingot",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "netherite_leggings",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "netherite_nautilus_armor",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "netherite_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "netherite_scrap",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "netherite_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "netherite_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "netherite_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "netherite_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "netherite_upgrade_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "netherrack",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "note_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oak_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "oak_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "oak_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "oak_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "oak_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oak_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oak_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "oak_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oak_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "oak_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "obsidian",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "ocelot_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "ominous_bottle",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "ominous_trial_key",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "open_eyeblossom",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "open_eyeblossom_emissive",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "orange_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "orange_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "orange_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "orange_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "orange_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "orange_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "orange_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_tulip",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "orange_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "oxeye_daisy",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_chiseled_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper_bars",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper_bulb",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper_bulb_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper_chain",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "oxidized_copper_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "oxidized_copper_grate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_copper_lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "oxidized_copper_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "oxidized_cut_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "oxidized_lightning_rod",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "packed_ice",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "packed_mud",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "painting",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "pale_hanging_moss",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_hanging_moss_tip",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_moss_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_moss_carpet",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_oak_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "pale_oak_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "pale_oak_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "pale_oak_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "pale_oak_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "pale_oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_oak_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_oak_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "pale_oak_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pale_oak_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "pale_oak_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "panda_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "paper",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "parched_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "parrot_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "phantom_membrane",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "phantom_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "pig_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "piglin_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "piglin_brute_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "piglin_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "pillager_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "pink_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "pink_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "pink_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "pink_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "pink_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "pink_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "pink_petals",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "pink_petals_stem",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_tulip",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pink_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "pitcher_plant",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "pitcher_pod",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "plenty_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "pointed_dripstone",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "pointed_dripstone_down_base",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_down_frustum",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_down_middle",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_down_tip",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_down_tip_merge",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_up_base",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_up_frustum",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_up_middle",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_up_tip",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "pointed_dripstone_up_tip_merge",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "poisonous_potato",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "polar_bear_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "polished_andesite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_blackstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_blackstone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_deepslate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_diorite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_granite",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "polished_tuff",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "popped_chorus_fruit",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "poppy",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "porkchop",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "potato",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "potion",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "potion_overlay",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "potted_azalea_bush_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "potted_flowering_azalea_bush_plant",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "powder_snow",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "powder_snow_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "powered_rail",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "powered_rail_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "prismarine",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "prismarine_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "prismarine_crystals",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "prismarine_shard",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "prize_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "pufferfish",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "pufferfish_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "pufferfish_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "pumpkin_pie",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "pumpkin_seeds",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "pumpkin_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "purple_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "purple_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "purple_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "purple_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "purple_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "purple_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "purple_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purple_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "purpur_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "purpur_pillar",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "quartz",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "quartz_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "quartz_pillar",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "rabbit",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "rabbit_foot",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "rabbit_hide",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "rabbit_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "rabbit_stew",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "rail",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "rail_corner",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "raiser_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "ravager_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "raw_copper",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "raw_copper_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "raw_gold",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "raw_gold_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "raw_iron",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "raw_iron_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "recovery_compass_00",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_01",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_02",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_03",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_04",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_05",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_06",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_07",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_08",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_09",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_10",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_11",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_12",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_13",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_14",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_15",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_16",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_17",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_18",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_19",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_20",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_21",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_22",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_23",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_24",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_25",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_26",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_27",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_28",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_29",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_30",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "recovery_compass_31",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "red_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "red_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "red_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "red_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "red_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "red_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "red_mushroom",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_mushroom_block",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_nether_bricks",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_sand",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_sandstone",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_tulip",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "red_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "redstone",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "redstone_block",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_dust_dot",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_dust_line0",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_dust_line1",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_lamp",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_lamp_on",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_ore",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "redstone_torch",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "repeater",
+    "folder": "items",
+    "category": "redstone"
+  },
+  {
+    "name": "repeater_on",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "repeating_command_block_conditional",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "resin_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "resin_brick",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "resin_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "resin_clump",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "rib_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "rooted_dirt",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "rotten_flesh",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "saddle",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "salmon",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "salmon_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "salmon_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "sand",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "sandstone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "scrape_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "sculk",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "sculk_sensor_tendril_active",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "sculk_sensor_tendril_inactive",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "sculk_vein",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "sea_lantern",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "sea_pickle",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "seagrass",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "sentry_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "shaper_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "sheaf_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "shears",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "sheep_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "shelter_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "short_dry_grass",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "short_grass",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "shroomlight",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "shulker_box",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "shulker_shell",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "shulker_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "silence_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "silverfish_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "skeleton_horse_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "skeleton_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "skull_banner_pattern",
+    "folder": "items",
+    "category": "banners"
+  },
+  {
+    "name": "skull_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "slime_ball",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "slime_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "slime_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "small_amethyst_bud",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "smooth_basalt",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "smooth_stone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "sniffer_egg",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "sniffer_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "snort_pottery_sherd",
+    "folder": "items",
+    "category": "pottery"
+  },
+  {
+    "name": "snout_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "snow",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "snow_golem_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "snowball",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "soul_campfire",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "soul_campfire_fire",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_campfire_log_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_fire_0",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_fire_1",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "soul_sand",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_soil",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "soul_torch",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spawner",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spectral_arrow",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "spider_eye",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "spider_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "spire_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "splash_potion",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "sponge",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spore_blossom",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spore_blossom_base",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spruce_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "spruce_chest_boat",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "spruce_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "spruce_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "spruce_leaves",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "spruce_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spruce_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spruce_sapling",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "spruce_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "spruce_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "spruce_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "spyglass",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "spyglass_model",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "squid_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "stick",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "stone",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stone_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "stone_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stone_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "stone_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "stone_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "stone_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "stone_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "stone_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "stonecutter_saw",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stray_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "strider_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "string",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "stripped_acacia_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_bamboo_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_birch_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_cherry_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_crimson_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_dark_oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_jungle_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_mangrove_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_pale_oak_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_spruce_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "stripped_warped_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_block_corner",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_block_data",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_block_load",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_block_save",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "structure_void",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "sugar",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "sugar_cane",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "suspicious_gravel_0",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_gravel_1",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_gravel_2",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_gravel_3",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_sand_0",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_sand_1",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_sand_2",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_sand_3",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "suspicious_stew",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "sweet_berries",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "tadpole_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "tadpole_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "tall_dry_grass",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "terracotta",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "test_block_accept",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "test_block_fail",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "test_block_log",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "test_block_start",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "test_instance_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tide_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "tinted_glass",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tipped_arrow_base",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "tipped_arrow_head",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "tnt_minecart",
+    "folder": "items",
+    "category": "transport"
+  },
+  {
+    "name": "torch",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "torchflower",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "torchflower_seeds",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "totem_of_undying",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "trader_llama_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "trial_key",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "trident",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "tripwire",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tripwire_hook",
+    "folder": "blocks",
+    "category": "redstone"
+  },
+  {
+    "name": "tropical_fish",
+    "folder": "items",
+    "category": "food"
+  },
+  {
+    "name": "tropical_fish_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "tropical_fish_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "tube_coral",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tube_coral_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tube_coral_fan",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tuff",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "tuff_bricks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "turtle_egg",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "turtle_egg_slightly_cracked",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "turtle_egg_very_cracked",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "turtle_helmet",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "turtle_scute",
+    "folder": "items",
+    "category": "potions"
+  },
+  {
+    "name": "turtle_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "twisting_vines",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "twisting_vines_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "vex_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "vex_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "villager_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "vindicator_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "vine",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "wandering_trader_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "ward_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "warden_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "warped_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "warped_fungus",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_fungus_on_a_stick",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "warped_hanging_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "warped_nylium",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_planks",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_roots",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_roots_pot",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_shelf",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_sign",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "warped_stem",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "warped_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "warped_wart_block",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "water_bucket",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "water_flow",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "water_still",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "wayfinder_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "weathered_chiseled_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper_bars",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper_bulb",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper_bulb_lit",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper_chain",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "weathered_copper_door",
+    "folder": "items",
+    "category": "doors"
+  },
+  {
+    "name": "weathered_copper_grate",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_copper_lantern",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "weathered_copper_trapdoor",
+    "folder": "blocks",
+    "category": "doors"
+  },
+  {
+    "name": "weathered_cut_copper",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weathered_lightning_rod",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weeping_vines",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "weeping_vines_plant",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "wet_sponge",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "wheat",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "wheat_seeds",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "white_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "white_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "white_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "white_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "white_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "white_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "white_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_tulip",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "white_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "wild_armor_trim_smithing_template",
+    "folder": "items",
+    "category": "smithing"
+  },
+  {
+    "name": "wildflowers",
+    "folder": "items",
+    "category": "nature"
+  },
+  {
+    "name": "wildflowers_stem",
+    "folder": "blocks",
+    "category": "nature"
+  },
+  {
+    "name": "wind_charge",
+    "folder": "items",
+    "category": "materials"
+  },
+  {
+    "name": "witch_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "wither_rose",
+    "folder": "blocks",
+    "category": "building"
+  },
+  {
+    "name": "wither_skeleton_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "wither_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "wolf_armor",
+    "folder": "items",
+    "category": "armor"
+  },
+  {
+    "name": "wolf_armor_overlay",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "wolf_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "wooden_axe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "wooden_hoe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "wooden_pickaxe",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "wooden_shovel",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "wooden_spear",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "wooden_spear_in_hand",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "wooden_sword",
+    "folder": "items",
+    "category": "tools"
+  },
+  {
+    "name": "writable_book",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "written_book",
+    "folder": "items",
+    "category": "misc"
+  },
+  {
+    "name": "yellow_bundle",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_bundle_open_back",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_bundle_open_front",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_candle",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "yellow_candle_lit",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_concrete",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_concrete_powder",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_dye",
+    "folder": "items",
+    "category": "dyes"
+  },
+  {
+    "name": "yellow_glazed_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_harness",
+    "folder": "items",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_shulker_box",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_stained_glass",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_terracotta",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "yellow_wool",
+    "folder": "blocks",
+    "category": "colored"
+  },
+  {
+    "name": "zoglin_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "zombie_horse_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "zombie_nautilus_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "zombie_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "zombie_villager_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  },
+  {
+    "name": "zombified_piglin_spawn_egg",
+    "folder": "items",
+    "category": "spawn_eggs"
+  }
+]

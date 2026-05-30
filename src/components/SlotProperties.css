@@ -1,0 +1,107 @@
+.slot-properties {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.properties-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.properties-header h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.property-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.property-group label {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.property-group input,
+.property-group select,
+.property-group textarea {
+  width: 100%;
+  font-size: 13px;
+}
+
+.property-group small {
+  margin-top: 4px;
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.action-info {
+  padding: 12px;
+  background-color: var(--background);
+  border: 1px solid var(--primary);
+  border-radius: 4px;
+  font-size: 13px;
+  color: var(--primary);
+}
+
+.action-info strong {
+  display: block;
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+
+.property-group label input[type="checkbox"] {
+  width: auto;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.empty {
+  color: var(--text-muted);
+  text-align: center;
+  padding: 32px 16px;
+  font-size: 14px;
+}
+
+.btn-danger {
+  width: auto;
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.texture-picker {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.texture-picker input {
+  flex: 1;
+}
+
+.texture-preview {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  background-color: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 2px;
+  flex-shrink: 0;
+}
+
+.btn-block {
+  width: 100%;
+  margin-top: 8px;
+}
