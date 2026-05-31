@@ -1,0 +1,42 @@
+/* Minecraft-style tooltip — classic dark purple border on near-black background.
+   Positioned fixed so it follows the cursor regardless of layout. */
+.mc-tooltip {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  /* Vanilla Minecraft tooltip recipe:
+     - 2px outer border of solid black (using outline-style 1px + box-shadow 1px black for the corners)
+     - 1px inner border of dark purple, fading edges
+     - Background: very dark with slight transparency */
+  background-color: #100010F2;
+  border: 2px solid #100010;
+  padding: 4px 6px;
+  font-family: 'Minecraft', 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.2;
+  white-space: nowrap;
+  /* Inner purple stroke — emulates the §-purple gradient frame */
+  box-shadow:
+    inset 0 0 0 1px #2D0080,
+    0 2px 8px rgba(0, 0, 0, 0.5);
+  image-rendering: pixelated;
+  max-width: 420px;
+  /* Small offset from cursor — overridden by inline style when positioned manually */
+}
+
+.mc-tooltip-name {
+  font-weight: 500;
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.6);
+  margin-bottom: 2px;
+}
+
+.mc-tooltip-lore {
+  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.6);
+  font-size: 13px;
+  font-style: italic;
+}
+
+/* Allow line wrapping when lore is long */
+.mc-tooltip-lore + .mc-tooltip-lore {
+  margin-top: 1px;
+}

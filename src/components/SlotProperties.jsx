@@ -1,6 +1,10 @@
 import { useState } from 'react'
 import ItemPicker from './ItemPicker'
+import HeadsPicker from './HeadsPicker'
+import CustomTextureButton from './CustomTextureButton'
+import MinecraftColorPicker from './MinecraftColorPicker'
 import { useLang } from '../i18n/LanguageContext'
+import { DEFAULT_DISPLAY_COLOR, DEFAULT_LORE_COLOR, getColorHex } from '../utils/minecraftColors'
 import './SlotProperties.css'
 
 const ACTION_TYPES = [
@@ -24,6 +28,7 @@ function SlotProperties({
     slot?.actionType === 'custom_action'
   )
   const [pickerOpen, setPickerOpen] = useState(false)
+  const [headsPickerOpen, setHeadsPickerOpen] = useState(false)
 
   if (!slot) {
     return (
@@ -85,18 +90,32 @@ function SlotProperties({
         <div className="texture-picker">
           {slot.texture && (
             <img
-              src={`${import.meta.env.BASE_URL}textures/${textureFolder}/${slot.texture}.png`}
+              src={slot.texture.startsWith('data:') || slot.texture.startsWith('http')
+                ? slot.texture
+                : `${import.meta.env.BASE_URL}textures/${textureFolder}/${slot.texture}.png`}
               alt={slot.texture}
               className="texture-preview"
               onError={(e) => { e.target.style.display = 'none' }}
             />
           )}
-          <input
-            type="text"
-            value={slot.texture || ''}
-            onChange={handleTextureChange}
-            placeholder={t('texture_placeholder')}
-          />
+          {/* For URL / data textures, show a static label instead of an editable field —
+              editing a 200-char URL by hand is useless, and editing it accidentally
+              would corrupt the slot. The pickers above are the right way to change it. */}
+          {slot.texture && (slot.texture.startsWith('data:') || slot.texture.startsWith('http')) ? (
+            <input
+              type="text"
+              value={`[${textureFolder === 'custom' ? t('custom_texture') : textureFolder === 'heads' ? 'head' : textureFolder}]`}
+              readOnly
+              title={slot.texture}
+            />
+          ) : (
+            <input
+              type="text"
+              value={slot.texture || ''}
+              onChange={handleTextureChange}
+              placeholder={t('texture_placeholder')}
+            />
+          )}
         </div>
         <button
           className="btn btn-primary btn-block"
@@ -104,6 +123,18 @@ function SlotProperties({
         >
           {t('browse_library')}
         </button>
+        <button
+          className="btn btn-secondary btn-block"
+          style={{ marginTop: 6 }}
+          onClick={() => setHeadsPickerOpen(true)}
+        >
+          {t('browse_heads')}
+        </button>
+        <div style={{ marginTop: 6 }}>
+          <CustomTextureButton
+            onLoad={(dataUrl) => onUpdate({ texture: dataUrl, textureFolder: 'custom' })}
+          />
+        </div>
       </div>
 
       <div className="property-group">
@@ -113,6 +144,17 @@ function SlotProperties({
           value={slot.displayName || ''}
           onChange={handleDisplayNameChange}
           placeholder={t('display_name_placeholder')}
+          style={{
+            color: getColorHex(slot.displayColor || DEFAULT_DISPLAY_COLOR),
+            fontWeight: 500,
+          }}
+        />
+        <small style={{ color: 'var(--text-muted)', marginTop: '4px', display: 'block' }}>
+          {t('text_color')}:
+        </small>
+        <MinecraftColorPicker
+          value={slot.displayColor || DEFAULT_DISPLAY_COLOR}
+          onChange={(color) => onUpdate({ displayColor: color })}
         />
       </div>
 
@@ -123,6 +165,17 @@ function SlotProperties({
           onChange={handleLoreChange}
           placeholder={t('lore_placeholder')}
           rows="3"
+          style={{
+            color: getColorHex(slot.loreColor || DEFAULT_LORE_COLOR),
+            fontStyle: 'italic',
+          }}
+        />
+        <small style={{ color: 'var(--text-muted)', marginTop: '4px', display: 'block' }}>
+          {t('text_color')}:
+        </small>
+        <MinecraftColorPicker
+          value={slot.loreColor || DEFAULT_LORE_COLOR}
+          onChange={(color) => onUpdate({ loreColor: color })}
         />
       </div>
 
@@ -180,6 +233,12 @@ function SlotProperties({
         onClose={() => setPickerOpen(false)}
         onSelect={(item, folder) => onUpdate({ texture: item, textureFolder: folder })}
         currentTexture={slot.texture}
+      />
+
+      <HeadsPicker
+        isOpen={headsPickerOpen}
+        onClose={() => setHeadsPickerOpen(false)}
+        onSelect={(headUrl) => onUpdate({ texture: headUrl, textureFolder: 'heads' })}
       />
     </div>
   )

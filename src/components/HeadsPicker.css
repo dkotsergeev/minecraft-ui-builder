@@ -1,0 +1,82 @@
+.heads-picker {
+  max-width: 1000px;
+}
+
+.heads-grid {
+  min-height: 200px;
+}
+
+.heads-grid .picker-item img {
+  width: 56px;
+  height: 56px;
+  image-rendering: auto; /* heads come pre-rendered, no need for nearest-neighbor */
+}
+
+/* Prominent link to the full catalog */
+.heads-catalog-link {
+  padding: 12px 20px;
+  background: linear-gradient(90deg, rgba(76, 175, 80, 0.15), rgba(76, 175, 80, 0.05));
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.heads-catalog-link a {
+  display: block;
+  color: #4caf50;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  transition: color 0.15s;
+}
+
+.heads-catalog-link a:hover {
+  color: #66bb6a;
+  text-decoration: underline;
+}
+
+.heads-catalog-link small {
+  display: block;
+  margin-top: 4px;
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.custom-head-row {
+  padding: 12px 20px 16px;
+  border-top: 1px solid var(--border);
+  background-color: var(--background);
+  border-radius: 0 0 6px 6px;
+}
+
+.custom-head-row label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.custom-head-input {
+  display: flex;
+  gap: 8px;
+}
+
+.custom-head-input input {
+  flex: 1;
+  font-family: monospace;
+  font-size: 12px;
+  padding: 8px 10px;
+}
+
+.custom-head-input .btn {
+  padding: 8px 16px;
+  flex-shrink: 0;
+}
+
+.custom-head-hint {
+  display: block;
+  margin-top: 6px;
+  color: var(--text-muted);
+  font-size: 11px;
+}

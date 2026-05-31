@@ -297,3 +297,12 @@
   width: 100%;
   text-align: center;
 }
+
+.recent-empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 20px;
+  color: var(--text-muted);
+  font-size: 13px;
+  font-style: italic;
+}

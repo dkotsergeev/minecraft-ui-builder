@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
+import SlotWithTooltip from './SlotWithTooltip'
 import { useLang } from '../i18n/LanguageContext'
 import './TestMode.css'
 
@@ -221,8 +222,9 @@ function TestMode({ interfaces, triggers }) {
               const isActionable = slot && slot.actionType && slot.actionType !== 'none'
 
               return (
-                <div
+                <SlotWithTooltip
                   key={index}
+                  slot={slot}
                   className={`test-slot ${isActionable ? 'actionable' : ''}`}
                   style={{
                     position: 'absolute',
@@ -236,14 +238,16 @@ function TestMode({ interfaces, triggers }) {
                 >
                   {slot && slot.texture && (
                     <img
-                      src={`${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
+                      src={slot.texture.startsWith('data:') || slot.texture.startsWith('http')
+                        ? slot.texture
+                        : `${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
                       alt={slot.texture}
                       className="test-slot-tex"
                       onError={(e) => { e.target.style.display = 'none' }}
                     />
                   )}
                   {slot && slot.glowing && <div className="test-slot-glow" />}
-                </div>
+                </SlotWithTooltip>
               )
             })}
 

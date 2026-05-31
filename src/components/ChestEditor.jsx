@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import ItemPicker from './ItemPicker'
+import SlotWithTooltip from './SlotWithTooltip'
 import { useLang } from '../i18n/LanguageContext'
 import './ChestEditor.css'
 
@@ -20,13 +21,16 @@ import './ChestEditor.css'
 
 const SCALE = 3 // масштаб для отображения
 
-const QUICK_ITEMS = [
-  'diamond', 'emerald', 'gold_ingot', 'iron_ingot',
-  'apple', 'arrow', 'barrier', 'book',
-  'coal', 'stick', 'chest', 'crafting_table'
-]
-
-function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInterface, onUpdateSlot, triggers = [], onGoToTriggers }) {
+function ChestEditor({
+  interface: iface,
+  selectedSlot,
+  onSelectSlot,
+  onUpdateInterface,
+  onUpdateSlot,
+  triggers = [],
+  onGoToTriggers,
+  recentItems = [],
+}) {
   const { t } = useLang()
   const [pickerOpen, setPickerOpen] = useState(false)
   const [showPlayerInventory, setShowPlayerInventory] = useState(true)
@@ -59,12 +63,12 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
     }
   }
 
-  const handleQuickItemClick = (item) => {
+  const handleRecentItemClick = (item) => {
     if (selectedSlot === null) {
       alert(t('hint_select_slot'))
       return
     }
-    onUpdateSlot(selectedSlot, { texture: item, textureFolder: 'items' })
+    onUpdateSlot(selectedSlot, { texture: item.texture, textureFolder: item.textureFolder || 'items' })
   }
 
   const handlePickerSelect = (item, folder) => {
@@ -199,8 +203,9 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
             const hasItem = !!slot
 
             return (
-              <div
+              <SlotWithTooltip
                 key={index}
+                slot={slot}
                 className={`chest-slot ${isSelected ? 'selected' : ''} ${hasItem ? 'filled' : ''}`}
                 style={{
                   position: 'absolute',
@@ -215,7 +220,9 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                 <div className="slot-index">{index}</div>
                 {slot && slot.texture && (
                   <img
-                    src={`${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
+                    src={slot.texture.startsWith('data:') || slot.texture.startsWith('http')
+                      ? slot.texture
+                      : `${import.meta.env.BASE_URL}textures/${slot.textureFolder || 'items'}/${slot.texture}.png`}
                     alt={slot.texture}
                     className="slot-texture"
                     onError={(e) => {
@@ -227,7 +234,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
                   <div className="slot-placeholder">?</div>
                 )}
                 {slot && slot.glowing && <div className="slot-glow" />}
-              </div>
+              </SlotWithTooltip>
             )
           })}
 
@@ -304,7 +311,7 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
 
       <div className="quick-items">
         <div className="quick-items-header">
-          <h3>{t('quick_items')}</h3>
+          <h3>{t('recent_items')}</h3>
           <button
             className="btn btn-primary btn-sm"
             onClick={() => setPickerOpen(true)}
@@ -327,24 +334,35 @@ function ChestEditor({ interface: iface, selectedSlot, onSelectSlot, onUpdateInt
         )}
 
         <div className="items-grid">
-          {QUICK_ITEMS.map(item => (
-            <button
-              key={item}
-              className="quick-item"
-              onClick={() => handleQuickItemClick(item)}
-              disabled={selectedSlot === null}
-              title={item}
-            >
-              <img
-                src={`${import.meta.env.BASE_URL}textures/items/${item}.png`}
-                alt={item}
-                onError={(e) => {
-                  e.target.style.display = 'none'
-                }}
-              />
-              <span className="quick-item-name">{item}</span>
-            </button>
-          ))}
+          {recentItems.length === 0 ? (
+            <div className="recent-empty">{t('no_recent_items')}</div>
+          ) : (
+            recentItems.map((item, i) => {
+              const isUrl = item.texture.startsWith('http') || item.texture.startsWith('data:')
+              const src = isUrl
+                ? item.texture
+                : `${import.meta.env.BASE_URL}textures/${item.textureFolder || 'items'}/${item.texture}.png`
+              const label = isUrl
+                ? (item.textureFolder === 'heads' ? 'head' : item.textureFolder === 'custom' ? 'custom' : '…')
+                : item.texture
+              return (
+                <button
+                  key={`${item.texture}-${i}`}
+                  className="quick-item"
+                  onClick={() => handleRecentItemClick(item)}
+                  disabled={selectedSlot === null}
+                  title={item.texture}
+                >
+                  <img
+                    src={src}
+                    alt={label}
+                    onError={(e) => { e.target.style.display = 'none' }}
+                  />
+                  <span className="quick-item-name">{label}</span>
+                </button>
+              )
+            })
+          )}
         </div>
       </div>
 

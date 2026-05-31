@@ -29,6 +29,14 @@ function App() {
     return saved ? JSON.parse(saved) : []
   })
 
+  // Last 10 items applied to any slot — populates the "Recent items" strip
+  // in the editor. Each entry: { texture, textureFolder }. New entries push
+  // to the front; duplicates are deduped by texture value.
+  const [recentItems, setRecentItems] = useState(() => {
+    const saved = localStorage.getItem('minecraftRecentItems')
+    return saved ? JSON.parse(saved) : []
+  })
+
   const [selectedInterfaceId, setSelectedInterfaceId] = useState(interfaces[0]?.id || 'main_menu')
   const [selectedSlot, setSelectedSlot] = useState(null)
   const [activeTab, setActiveTab] = useState('editor') // editor, graph, triggers, test
@@ -41,6 +49,20 @@ function App() {
   useEffect(() => {
     localStorage.setItem('minecraftTriggers', JSON.stringify(triggers))
   }, [triggers])
+
+  useEffect(() => {
+    localStorage.setItem('minecraftRecentItems', JSON.stringify(recentItems))
+  }, [recentItems])
+
+  // Push an item to the front of the recent list, deduping by texture value.
+  // Keeps the list at most 10 entries long.
+  const pushRecentItem = (texture, textureFolder) => {
+    if (!texture) return
+    setRecentItems(prev => {
+      const filtered = prev.filter(r => r.texture !== texture)
+      return [{ texture, textureFolder: textureFolder || 'items' }, ...filtered].slice(0, 10)
+    })
+  }
 
   const selectedInterface = interfaces.find(i => i.id === selectedInterfaceId)
 
@@ -87,6 +109,11 @@ function App() {
     }
 
     handleUpdateInterface(selectedInterfaceId, { slots: newSlots })
+
+    // If the user just changed the texture, record it in the recents strip.
+    if (updates.texture) {
+      pushRecentItem(updates.texture, updates.textureFolder)
+    }
   }
 
   const handleDeleteSlot = (slotIndex) => {
@@ -171,16 +198,16 @@ function App() {
               {t('tab_editor')}
             </button>
             <button
-              className={`tab ${activeTab === 'graph' ? 'active' : ''}`}
-              onClick={() => setActiveTab('graph')}
-            >
-              {t('tab_navigation')}
-            </button>
-            <button
               className={`tab ${activeTab === 'triggers' ? 'active' : ''}`}
               onClick={() => setActiveTab('triggers')}
             >
               🎒 {t('tab_triggers')}
+            </button>
+            <button
+              className={`tab ${activeTab === 'graph' ? 'active' : ''}`}
+              onClick={() => setActiveTab('graph')}
+            >
+              {t('tab_navigation')}
             </button>
             <button
               className={`tab test-tab ${activeTab === 'test' ? 'active' : ''}`}
@@ -201,6 +228,7 @@ function App() {
                   onUpdateSlot={handleUpdateSlot}
                   triggers={triggers}
                   onGoToTriggers={() => setActiveTab('triggers')}
+                  recentItems={recentItems}
                 />
               </div>
               <aside className="properties-panel">
